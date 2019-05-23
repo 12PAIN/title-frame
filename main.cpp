@@ -4,8 +4,7 @@ using namespace std;
 
 int main()
 {
-    system("chcp 65001");
-    system("cls");
+    
 
     string name,surname,patronymic,group;
 
